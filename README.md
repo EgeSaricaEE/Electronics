@@ -1,2 +1,2 @@
 # Electronics
-My projects in electronic circuit focused classes
+My projects in electronic circuits focused classes
